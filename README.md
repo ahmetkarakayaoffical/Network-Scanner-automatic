@@ -12,8 +12,7 @@ Tool içerisinde kritik port ve o portta kritik bir zaafiyet bulur ise İlgili p
 
 Tool içerisinde Ayrıca dünyada kabul görmüş en riskli portlar tanımlanmıştır ve bu sayede Riskli port'lar var ise tespit edecektir.
 
-
-![image](https://github.com/ahmetkarakayaoffical/Network-Scanner-automatic/assets/100443477/5a540bf0-287e-4e9d-bd09-3aa162bcf917)
+![image](https://github.com/ahmetkarakayaoffical/Network-Scanner-automatic/assets/100443477/85bb9b2f-6d0e-4c72-9b81-66473ce0b481)
 
 
 ![aaaa](https://github.com/ahmetkarakayaoffical/Network-Scanner-automatic/assets/100443477/8d5d5385-d25a-49cf-a17b-dbc954ab5e84)
